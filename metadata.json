@@ -1,0 +1,8 @@
+{
+  "name": "Rallyman: DIRT Chrono & Sheets",
+  "description": "Compagnon de suivi de scores et générateur de tableur Google Sheets multi-groupes pour Rallyman: DIRT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
